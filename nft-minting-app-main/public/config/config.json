@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3B54321C32843d4560024006ad975A1D982E3156",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3b54321c32843d4560024006ad975a1d982e3156",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DGCK",
+  "SYMBOL": "DGCKNFT",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dgck",
+  "SHOW_BACKGROUND": true
+}
